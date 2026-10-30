@@ -2,8 +2,6 @@
 
 > 来源：2026-09-22 OPC 社区分享《创业者商业模式搭建与避坑经验分享》逐字稿（约 46 分钟）。
 > 讲者：麦克。团队从零做过 Token 分销（服务上市公司）和 ToB FDE 企业交付；更早做过企业咨询和培训；现在锚定「AI computer」（面向海量智能体的操作系统/算力）。
-> 原始：妙记 https://pvsbtqbsnz3.feishu.cn/minutes/obcn65x4nyf3mps115v359d4 ｜文字记录 https://my.feishu.cn/docx/BcRZdHgjOocx2axLs2wcV7Rynhf
-> 逐字稿是语音转写，有错字（「托培」=Token、「编辑成本」=边际成本、「开业模式」=商业模式、「OBC」=OPC）。
 
 **一句话内核：方向比努力重要。先用最低成本证伪，钱是唯一可信的信号；跑通闭环之前不重投入。**
 
